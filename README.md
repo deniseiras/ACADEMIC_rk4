@@ -1,2 +1,3 @@
 # rk4
-Runge-Kutta implementation
+4th order Runge-Kutta implementation
+
