@@ -53,7 +53,7 @@
 # Data                  23/03     24/03     25/03     26/03
 # Dias de casos = x        28        29        30        31
 # Casos Reais   = f(x)   1924      2247      2554      2985
-# Fonte: ...
+# Fonte: https://www.worldometers.info/coronavirus/country/brazil/
 #
 #
 # 3. Resultados
