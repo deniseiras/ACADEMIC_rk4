@@ -8,7 +8,7 @@ def f(x_n, y_n):
     # Exercicio 10.2.1 - livro-py.pdf
     y_this = -0.5*y_n + x_n + 2
     # derivada da solução exata
-    # y_this = 2 - 4 * np.exp(-x_n/2)
+    # y_this = 2 - 8 * np.exp(-x_n/2)
     return y_this
 
 
