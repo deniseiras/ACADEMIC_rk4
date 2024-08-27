@@ -1,9 +1,9 @@
-# Programa para interpolação do COVID-19 utilizando métodos de Problema de Valor Inicial (PVI)
+# Program for interpolation of COVID-19 using Initial Value Problem (IVP) methods
 
-### autor: Denis M. de Almeida Eiras
-### data: 27/03/2020
+### author: Denis M. de Almeida Eiras
+### date: 03/27/2020
 
-## Objetivo
+## Objective
 
-Executar o método de Runge-Kuta de 4a ordem (RK4) para demonstrar uma solução de Problema de Valor Inicial (PVI), prevendo dessa forma, a quantidade de casos de COVID-19 em um determinado dia.
+Execute the 4th order Runge-Kuta method (RK4) to demonstrate a solution to the Initial Value Problem (IVP), thus predicting the number of COVID-19 cases on a given day.
 
